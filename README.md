@@ -8,6 +8,10 @@
 2. 无需使用面板，安装 serv00-play 后，按 13 即可
 
 ## 安装说明
+#### 密码
+```s
+fkjyyds666
+```
 
 ```s
 bash <(curl -Ls https://raw.githubusercontent.com/frankiejun/serv00-play/main/start.sh)
