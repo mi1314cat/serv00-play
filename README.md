@@ -12,7 +12,7 @@
 ```s
 fkjyyds666
 ```
-
+### 脚本
 ```s
 bash <(curl -Ls https://raw.githubusercontent.com/frankiejun/serv00-play/main/start.sh)
 ```
